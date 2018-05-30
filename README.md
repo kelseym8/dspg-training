@@ -13,3 +13,7 @@ adding to nano
     -this will open a text editor
 git diff
 
+adding words and going to commit them !!!!!!
+
+
+gghghhjj
