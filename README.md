@@ -19,3 +19,6 @@ adding words and going to commit them !!!!!!
 gghghhjj
 
 it is june 1st and I am editing this README.md 
+
+
+-use `git branch NAME OF BRANCH` to create a new branch 
