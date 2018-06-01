@@ -29,5 +29,5 @@ editing this in my_second_branch yeah
 An automerge happens when you edit a file in different locations
 and a merge conflict happens when you edit it in the same location
 
-
-Edit this doc in yo
+MG: Edit this in your own doc
+MG: look at us becoming computer geeks!!!
