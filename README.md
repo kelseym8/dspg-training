@@ -24,4 +24,9 @@ it is june 1st and I am editing this README.md
 -use `git branch NAME OF BRANCH` to create a new branch 
 
 
+<<<<<<< HEAD
 Where are the words that I wrote before, are they in the other branch?
+=======
+editing this in my_second_branch yeah
+
+>>>>>>> my_second_branch
