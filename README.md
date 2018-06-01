@@ -22,3 +22,6 @@ it is june 1st and I am editing this README.md
 
 
 -use `git branch NAME OF BRANCH` to create a new branch 
+
+
+Where are the words that I wrote before, are they in the other branch?
