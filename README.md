@@ -30,3 +30,4 @@ Where are the words that I wrote before, are they in the other branch?
 editing this in my_second_branch yeah
 
 >>>>>>> my_second_branch
+An automerge
